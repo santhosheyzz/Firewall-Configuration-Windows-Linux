@@ -65,11 +65,13 @@ sudo ufw delete deny 23
 
 ---
 ##🗒️ Additional Notes
-  -firewall_commands.txt contains all Linux commands used.
-  -All screenshots are labeled clearly and sorted into folders.
-  -This project helps develop basic firewall management skills and network security understanding.
+---
+  - firewall_commands.txt contains all Linux commands used.
+  - All screenshots are labeled clearly and sorted into folders.
+  - This project helps develop basic firewall management skills and network security understanding.
 ---
 ##👨‍💻 Author
+
 Santhoshkumar
 Cybersecurity Enthusiast | Developer | Tech Explorer
 
