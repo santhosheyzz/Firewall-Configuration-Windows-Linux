@@ -1,0 +1,20 @@
+### ▶️ Step-by-Step Commands
+
+```bash
+# 1. Enable UFW
+sudo ufw enable
+
+# 2. Check current status
+sudo ufw status verbose
+
+# 3. Block inbound traffic on port 23 (Telnet)
+sudo ufw deny 23
+
+# 4. Test the rule
+telnet localhost 23
+
+# 5. Allow SSH on port 22
+sudo ufw allow 22
+
+# 6. Remove the test block rule
+sudo ufw delete deny 23
