@@ -57,7 +57,7 @@ sudo ufw allow 22
 sudo ufw delete deny 23
 ```
 ---
-## 🐧 Windows (FIREWALL) Configuration
+## Windows (FIREWALL) Configuration
 
 ![img alt](https://github.com/santhosheyzz/Firewall-Configuration-Windows-Linux/blob/ff5c8eb27a2e46551fc7be2cb0ca8b1f3d60670a/Windows/Windows%20Block%20the%20port.png)
 
@@ -65,9 +65,9 @@ sudo ufw delete deny 23
 
 ---
 ##🗒️ Additional Notes
-  firewall_commands.txt contains all Linux commands used.
-  All screenshots are labeled clearly and sorted into folders.
-  This project helps develop basic firewall management skills and network security understanding.
+  -firewall_commands.txt contains all Linux commands used.
+  -All screenshots are labeled clearly and sorted into folders.
+  -This project helps develop basic firewall management skills and network security understanding.
 ---
 ##👨‍💻 Author
 Santhoshkumar
