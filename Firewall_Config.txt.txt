@@ -1,0 +1,12 @@
+# UFW Firewall Configuration Steps
+sudo ufw enable
+sudo ufw status verbose
+sudo ufw deny 23
+telnet localhost 23
+sudo ufw allow 22
+sudo ufw delete deny 23
+
+
+ How Firewall Filters Traffic
+A firewall filters traffic based on rules that allow or deny network connections based on IP, port number, and protocol. In this task, we blocked traffic on port 23 and allowed port 22 (SSH), demonstrating how firewalls manage and protect systems from unauthorized access.
+
